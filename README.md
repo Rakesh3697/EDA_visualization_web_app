@@ -59,6 +59,10 @@ seaborn
 
 These packages are listed in the requirements.txt file and will be installed when you run pip install -r requirements.txt.
 
+Screenshot:
+![EDA_screenshot](https://github.com/user-attachments/assets/36cd48f0-54c3-4c29-a8be-28da9cd177e6)
+
+
 Contributing:
 Contributions are welcome! If you'd like to contribute, please fork the repository and create a pull request with your changes. For major changes, please open an issue first to discuss what you would like to change.
 
