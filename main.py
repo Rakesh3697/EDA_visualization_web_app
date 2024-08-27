@@ -13,7 +13,7 @@ import seaborn as sns
 import warnings
 
 # Suppress PyplotGlobalUseWarning
-st.set_option('deprecation.showPyplotGlobalUse', False)
+#st.set_option('deprecation.showPyplotGlobalUse', False)
 
 def main():
     """Semi Automated ML App with Streamlit """
